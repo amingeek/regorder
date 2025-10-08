@@ -165,3 +165,9 @@ User: Can I ask you some question about programming or web design and about Gola
 User: Hello, this is my voice.
 AI: Hello! I can't hear your voice, but I'm here to assist you with any text-based questions or information you need. How can I help you today?
 
+User: Hello AI, I wanted to ask you some question. Are you here?
+AI: Hello! Yes, I’m here. How can I assist you today?
+
+User: Hello, I'm Amin. Can I ask you some questions?
+AI: Hello, Amin! Of course, feel free to ask me any questions you have. I'm here to help!
+
