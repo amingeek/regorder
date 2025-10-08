@@ -162,3 +162,6 @@ OK, I am fine.
 User: Can I ask you some question about programming or web design and about Golang?
  Do you know something about Golang?
  It's a programming language, can you help me for write some Golang code?
+User: Hello, this is my voice.
+AI: Hello! I can't hear your voice, but I'm here to assist you with any text-based questions or information you need. How can I help you today?
+

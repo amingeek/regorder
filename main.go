@@ -108,7 +108,6 @@ func main() {
 
 		fmt.Println("💡 LLM Response:\n", response)
 
-		// ✅ ذخیره در history.txt
 		saveHistory(text, response)
 	}
 }
